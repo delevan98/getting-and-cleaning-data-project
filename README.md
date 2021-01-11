@@ -13,6 +13,6 @@ This means that the script will do exactly what is asked in the instructions for
 **TO-DO**
 
 - [x] Upload run_analysis.R
-- [ ] Upload code book
+- [x] Upload code book
 - [x] Upload tidy data text file
 
