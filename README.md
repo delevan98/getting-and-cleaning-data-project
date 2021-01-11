@@ -12,7 +12,7 @@ This means that the script will do exactly what is asked in the instructions for
 
 **TO-DO**
 
-- [ ] Upload run_analysis.R
+- [x] Upload run_analysis.R
 - [ ] Upload code book
-- [ ] Upload tidy data text file
+- [x] Upload tidy data text file
 
